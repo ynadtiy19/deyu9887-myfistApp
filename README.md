@@ -21,7 +21,7 @@ Curious to see it in action? Check out our demo video to get a full overview of 
 Clone the repository:
 bash
 复制代码
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ynadtiy19/deyu9887-myfistApp.git
 
 
 Install dependencies:
