@@ -1,6 +1,30 @@
-🌟 **My Awesome UI Project** 🌟  
-🚀 Welcome to **My Awesome UI Project** — a cutting-edge UI/UX experience designed to elevate your projects to the next level! Combining sleek design, intuitive interactions, and modern technologies, this project delivers a truly remarkable user interface that's both functional and beautiful. 
+<div align="center">  
+ <h1 align="center" style="font-size: 70px;">Flutter pin code input</h1>
 
+<!--  Donations -->
+ <a href="https://ko-fi.com/flutterman">
+  <img width="300" src="https://user-images.githubusercontent.com/26390946/161375567-9e14cd0e-1675-4896-a576-a449b0bcd293.png">
+ </a>
+ <div align="center">
+   <a href="https://www.buymeacoffee.com/fman">
+    <img width="150" alt="buymeacoffee" src="https://user-images.githubusercontent.com/26390946/161375563-69c634fd-89d2-45ac-addd-931b03996b34.png">
+  </a>
+   <a href="https://ko-fi.com/flutterman">
+    <img width="150" alt="Ko-fi" src="https://user-images.githubusercontent.com/26390946/161375565-e7d64410-bbcf-4a28-896b-7514e106478e.png">
+  </a>
+ </div>
+<!--  Donations -->
+
+<h3 align="center" style="font-size: 35px;">Need anything Flutter related? Reach out on <a href="https://www.linkedin.com/in/thornike/">LinkedIn</a>
+</h3>
+
+
+[![Pub package](https://img.shields.io/pub/v/pinput.svg)](https://pub.dev/packages/pinput)
+[![Github starts](https://img.shields.io/github/stars/tkko/flutter_pinput.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/tkko/flutter_pinput)
+[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://github.com/tenhobi/effective_dart)
+[![pub package](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 ---
 
 ## 🔥 **Key Features**  
