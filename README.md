@@ -1,5 +1,5 @@
 <div align="center">  
- <h1 align="center" style="font-size: 70px;">云雨之洲t</h1>
+ <h1 align="center" style="font-size: 70px;">云雨之洲</h1>
 
 
 <!--  Donations -->
